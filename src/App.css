@@ -1,0 +1,10 @@
+#root {
+  height: 100vh;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: safe center;
+  justify-content: safe center;
+  overflow-y: auto;
+}
